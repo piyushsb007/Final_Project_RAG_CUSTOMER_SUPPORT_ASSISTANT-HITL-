@@ -17,7 +17,7 @@ A production-style **Retrieval-Augmented Generation (RAG)** system that answers 
 
 ---
 
-## 🧠 What is RAG?
+## What is RAG?
 
 Retrieval-Augmented Generation (RAG) combines:
 
@@ -59,7 +59,7 @@ Customer_Support_Assistant/
 │   ├── graph.py                # LangGraph workflow (RAG + HITL)
 │
 ├── data/
-│   └── samsung_care_policy.pdf # Knowledge base
+│   └── SAMSUNG_CARE_Plus_2Years.pdf # Used pdf for demo,You can change pdf too,just dont forgot to change file_path
 │
 ├── main.py                     # CLI chatbot runner
 ├── requirements.txt
@@ -74,8 +74,8 @@ Customer_Support_Assistant/
 ### 1. Clone repository
 
 ```bash id="cmd1"
-git clone https://github.com/your-username/rag-customer-support.git
-cd rag-customer-support
+git clone https://github.com/piyushsb007/Final_Project_RAG_CUSTOMER_SUPPORT_ASSISTANT-HITL-.git
+cd Customer_Support_Assistant
 ```
 
 ---
