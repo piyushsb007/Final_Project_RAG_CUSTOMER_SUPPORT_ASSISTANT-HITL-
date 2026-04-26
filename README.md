@@ -144,7 +144,7 @@ User: Can I buy water bottle?
 👨 Human Agent: This is not related
 🤖 Answer: Human Expert: This is not related
 
-User: ok tell me about refund policy
+User: ok tell me about refund pocily
 ⚠️ Escalation triggered
 👨 Human Agent: Do you mean refund policy?
 🤖 Answer: Human Expert: Do you mean refund policy?
