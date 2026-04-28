@@ -233,6 +233,10 @@ User: Yes → System understands context
 
 ---
 
+## 👉 Demo Video: https://drive.google.com/drive/folders/1WBpJrllXNjOeY_AzE-3XiTAjaeXJWc3T?usp=drive_link
+
+---
+
 ## 🏆 Key Learnings
 
 * RAG system design
